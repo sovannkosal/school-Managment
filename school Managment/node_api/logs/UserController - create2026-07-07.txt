@@ -1,0 +1,5 @@
+[07/07/2026 23:30:34] Incorrect integer value: '' for column 'user_id' at row 1
+[07/07/2026 23:32:22] notNull Violation: tbl_user.user_id cannot be null
+[07/07/2026 23:33:58] notNull Violation: tbl_user.user_id cannot be null
+[07/07/2026 23:34:02] notNull Violation: tbl_user.user_id cannot be null
+[07/07/2026 23:36:13] notNull Violation: tbl_user.user_id cannot be null

@@ -1,0 +1,3 @@
+[06/07/2026 23:39:36] string violation: photo cannot be an array or an object
+[06/07/2026 23:39:40] string violation: photo cannot be an array or an object
+[06/07/2026 23:53:26] string violation: photo cannot be an array or an object

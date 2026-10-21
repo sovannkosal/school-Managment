@@ -1,0 +1,2 @@
+[05/08/2026 23:48:49] Cannot add or update a child row: a foreign key constraint fails (`backend_pos_db`.`tbl_order_item`, CONSTRAINT `tbl_order_item_ibfk_2` FOREIGN KEY (`prd_id`) REFERENCES `tbl_master_product` (`prd_id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[05/08/2026 23:49:10] Cannot add or update a child row: a foreign key constraint fails (`backend_pos_db`.`tbl_order_item`, CONSTRAINT `tbl_order_item_ibfk_2` FOREIGN KEY (`prd_id`) REFERENCES `tbl_master_product` (`prd_id`) ON DELETE SET NULL ON UPDATE CASCADE)

@@ -1,0 +1,6 @@
+[16/07/2026 23:34:05] Data truncated for column 'status' at row 1
+[16/07/2026 23:34:13] Data truncated for column 'status' at row 1
+[16/07/2026 23:34:21] Data truncated for column 'status' at row 1
+[16/07/2026 23:37:51] Data truncated for column 'status' at row 1
+[16/07/2026 23:52:37] Data truncated for column 'status' at row 1
+[16/07/2026 23:52:42] Data truncated for column 'status' at row 1
